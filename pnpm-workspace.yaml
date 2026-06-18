@@ -1,3 +1,6 @@
+packages:
+  - '.'
+
 allowBuilds:
   '@vercel/git-hooks': true
   esbuild: true
